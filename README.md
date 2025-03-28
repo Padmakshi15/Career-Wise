@@ -68,7 +68,7 @@ To test the data model predictions:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-preview.png)
+Will add screenshot here
 
 ---
 
