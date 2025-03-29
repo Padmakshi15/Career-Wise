@@ -59,7 +59,8 @@ To test the data model predictions:
 ## 📁 Project Structure
 
 ```
-EMPLOYMENTANALYTICSDASHBOARD/ │── assets/ # Images, logos, or UI-related files
+EMPLOYMENTANALYTICSDASHBOARD/
+│── assets/ # Images, logos, or UI-related files
 │── data/ # Raw and processed datasets
 │ └── Enhanced_JD_Dataset (version 1).csv
 │── pages/ # Modular page components for dashboard
