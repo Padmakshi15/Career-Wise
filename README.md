@@ -56,6 +56,29 @@ To test the data model predictions:
 
 ---
 
+## 📁 Project Structure
+
+EMPLOYMENTANALYTICSDASHBOARD/
+├── assets/                       # Images, logos, or UI-related files
+├── data/                         # Raw and processed datasets
+│   └── Enhanced_JD_Dataset (version 1).csv
+├── pages/                        # Modular page components for dashboard
+│   ├── ex.py
+│   ├── home.py
+│   ├── job_market.py
+│   ├── reports.py
+│   ├── salary_trends.py
+│   └── skill_analysis.py
+├── static/                       # Static files (CSS, JS if applicable)
+├── templates/                    # HTML templates if using Flask/Jinja
+├── venv/                         # Virtual environment (not pushed to GitHub)
+├── app.py                        # Main application file (entry point)
+├── README.md                     # Project overview and usage guide
+├── requirements.txt              # List of Python dependencies
+└── .gitignore                    # Files/folders to ignore in version control
+
+---
+
 ## Features
 
 - Industry-wise salary benchmarking and job role segmentation
