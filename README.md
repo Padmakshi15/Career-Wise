@@ -94,7 +94,20 @@ EMPLOYMENTANALYTICSDASHBOARD/
 
 ## 📊 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/89815dcb-ac76-44b7-bb76-7e9879c3e0a8)
+![image](https://github.com/user-attachments/assets/097f13f7-773b-46ae-8ed7-37586a821501)
+
+SKILL ANALYSIS
+![image](https://github.com/user-attachments/assets/bcd2a611-88d7-4214-a362-f35fa0f17aa4)
+
+JOB MARKET INSIGHTS
+![image](https://github.com/user-attachments/assets/80782d9c-239f-4b3a-8d3c-a70b3886ad50)
+![image](https://github.com/user-attachments/assets/d1012ab1-28c5-4164-8f9a-440717107094)
+![image](https://github.com/user-attachments/assets/63f5afa6-565a-4e35-b1cb-be03e695c105)
+
+SALARY TRENDS
+![image](https://github.com/user-attachments/assets/2d3018c2-9cae-465d-a496-08f4a4ceba4b)
+![image](https://github.com/user-attachments/assets/865d4974-4e20-441e-9f62-ad78a9822697)
+
 
 
 ---
